@@ -1,0 +1,28 @@
+html, body {
+    font:normal 12px verdana;
+    margin:0;
+    padding:0;
+    border:0 none;
+    overflow:hidden;
+    height:100%;
+}
+
+p {
+    margin:5px;
+}
+
+.settings {
+    background-image:url(/silk-icons/folder_wrench.png);
+}
+
+.nav {
+    background-image:url(/silk-icons/folder_go.png);
+}
+
+.user-no-user { background-image: url(/silk-icons/tux.png) !important; background-repeat: no-repeat; }
+.user-customer { background-image: url(/silk-icons/user_orange.png) !important; background-repeat: no-repeat; }
+.user-user { background-image: url(/silk-icons/user_green.png) !important; background-repeat: no-repeat; }
+.user-user-admin { background-image: url(/silk-icons/user_red.png) !important; background-repeat: no-repeat; }
+.user-admin { background-image: url(/silk-icons/user_suit.png) !important; background-repeat: no-repeat; }
+.user-add { background-image: url(/silk-icons/user_add.png) !important; background-repeat: no-repeat; }
+.user-delete { background-image: url(/silk-icons/user_delete.png) !important; background-repeat: no-repeat; }
